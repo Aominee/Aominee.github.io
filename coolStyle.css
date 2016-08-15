@@ -1,9 +1,9 @@
 body
 {
     background-image: url("blurred project9.jpg");
-    background-repeat:no-repeat;
+    /*background-repeat:no-repeat;
     background-size:contain;
-    background-position:center;
+    background-position:center; */
     background-color:#020001;
 }
 
